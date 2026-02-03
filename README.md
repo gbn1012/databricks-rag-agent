@@ -104,5 +104,3 @@ This repo is intended for use with the Databricks platform.  Specifically:
 - [Mosaic AI Agent Framework](https://docs.databricks.com/en/generative-ai/retrieval-augmented-generation.html) which provides a fast developer workflow with enterprise-ready LLMops & governance
 - [Mosaic AI Agent Evaluation](https://docs.databricks.com/en/generative-ai/agent-evaluation/index.html) which provides reliable, quality measurement using proprietary AI-assisted LLM judges to measure quality metrics that are powered by human feedback collected through an intuitive web-based chat UI
 
-![Alt text](./dbxquality.png)
-
